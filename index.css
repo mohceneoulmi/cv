@@ -1,0 +1,64 @@
+.droite_photo
+{
+	width:40%;
+	float:right;
+}
+
+.gauche_nom
+{
+	width:100%;
+	float:left;
+	color: blue;
+	font-size: 25px;
+}
+.milieu_ingenieur
+{
+	width:30%;
+	float:left;
+	font-size:25px;
+
+}
+.gauche_informations
+{
+	width:50%;
+	float:left;
+	color:black;
+}
+
+.gauche_competences
+{
+	width:100%;
+	float:left;
+	font-size: 14px;
+}
+
+.gacuche_formations
+{
+	width:100%;
+	float:left;
+}
+
+.gauche_experiences
+{
+	width:100%;
+	float:left;
+}
+
+.gauche_centres
+{
+	width:100%;
+	float:left;
+}
+
+.h1
+{
+	width:100%;
+	font-size: 20px;
+}
+
+.h2
+{
+	width:100%;
+	font-size: 14px;
+}
+
